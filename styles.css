@@ -1,2 +1,16 @@
+.container {
+  width: 200px;
+  background-color: purple;
+}
 
-/* Your CSS Code here. */
+.left-side {
+  border-left-color: green;
+  border-left-width: 5px;
+  border-style: solid;
+  padding: 10px;
+}
+.heading {
+  color: white;
+  font-size:20px;
+  text-decoration:underline;
+}
